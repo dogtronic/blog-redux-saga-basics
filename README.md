@@ -1,8 +1,8 @@
-# Jak i kiedy używać Redux-Saga?
+# Podstawowa aplikacja z Redux-Saga
 
-#### Prosty przykład z wykorzystaniem Redux-Saga został opisany w artykule: 
+#### W łatwy sposób prezentuje jak zaimplementować Sagi do projektu.
 
-###### W łatwy sposób prezentuje jak zaimplementować Sagi do projektu.
+###### Poniższy projekt został opisany w artykule: <link>
 
 <br/>
 <br/>
