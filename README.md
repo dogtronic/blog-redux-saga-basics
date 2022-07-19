@@ -2,7 +2,7 @@
 
 #### W łatwy sposób prezentuje jak zaimplementować Sagi do swojego projektu.
 
-###### Poniższy projekt został opisany w artykule: <link>
+##### Poniższy projekt został opisany w artykule: link
 
 <br/>
 <br/>
