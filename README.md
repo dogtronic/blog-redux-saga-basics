@@ -1,6 +1,6 @@
-# Podstawowa aplikacja z Redux-Saga
+# Podstawowa aplikacja w React z Redux oraz Redux-Saga
 
-#### W łatwy sposób prezentuje jak zaimplementować Sagi do projektu.
+#### W łatwy sposób prezentuje jak zaimplementować Sagi do swojego projektu.
 
 ###### Poniższy projekt został opisany w artykule: <link>
 
