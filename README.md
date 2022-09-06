@@ -2,7 +2,7 @@
 
 #### W łatwy sposób prezentuje jak zaimplementować Sagi do swojego projektu.
 
-#### Przykład został opisany w artykule link
+#### Przykład został opisany w artykule https://dogtronic.io/jak-i-kiedy-uzywac-redux-saga/
 
 <br/>
 <br/>
